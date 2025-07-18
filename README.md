@@ -100,7 +100,7 @@ Esto ofrece una experiencia moderna, intuitiva y segura.
 ## 📲 Descargar la app  
 Puedes descargar la última versión aquí:  
 
-➡️ [**Descargar APK**]
+➡️ [**Descargar APK**](https://github.com/luise5554/AndroidEmtelcoApp/releases/download/untagged-f1ab99c036ab00d33259/app-release.apk)
 
 ✨ Próximos pasos
 	•	Agregar navegación con NavController para una arquitectura más escalable.
