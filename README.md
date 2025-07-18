@@ -97,6 +97,10 @@ Esto ofrece una experiencia moderna, intuitiva y segura.
 <img src="https://github.com/user-attachments/assets/bc9d0dc3-ddf4-48a9-b9ea-3c8e6d4be815" width="200"/>
 <img src="https://github.com/user-attachments/assets/86b3dec2-74b3-483e-8964-fcc03f3acb90" width="200"/>  
 ⸻  
+## 📲 Descargar la app  
+Puedes descargar la última versión aquí:  
+
+➡️ [**Descargar APK**]
 
 ✨ Próximos pasos
 	•	Agregar navegación con NavController para una arquitectura más escalable.
@@ -112,5 +116,6 @@ Luis Suárez
 🌐 https://www.linkedin.com/in/luis-eduardo-su%C3%A1rez-pati%C3%B1o-70bb83a8/
 
 ⸻
+
 
 Esta app demuestra buenas prácticas en arquitectura Android moderna, persistencia offline, seguridad con biometría y una UX adaptada a contextos de red variables.
