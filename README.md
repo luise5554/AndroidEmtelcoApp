@@ -24,28 +24,28 @@ Android Studio detectará el libs.versions.toml y descargará las dependencias n
 
 5.	Permisos necesarios
 	•	Notificaciones (Android 13+) para avisar cambios de conectividad.
-	•	Biometría (PIN/Huella/Rostro) para acceder al carrito.
+	•	Biometría (PIN/Huella/Rostro) para acceder al carrito.  
 
 
 🏗️ Arquitectura
 
-La app sigue el patrón MVVM (Model-View-ViewModel) con inyección de dependencias mediante Dagger Hilt y el Patrón Repositorio para separar la capa de datos.
-	•	UI (Compose)
-	•	Renderiza la lista de Pokémon con paginación.
-	•	Muestra el carrito con un contador y un botón flotante.
-	•	Gestiona eventos como “Agregar al carrito” y biometría antes de acceder al mismo.
-	•	ViewModel
-	•	Expone State inmutable para la UI.
-	•	Gestiona la lógica de paginación y sincronización de datos.
-	•	Repository
-	•	Orquesta datos de API remota (Retrofit) y Room Database.
-	•	Si hay internet → trae desde API y actualiza DB.
-	•	Si no hay internet → devuelve datos locales persistidos.
-	•	Data Layer
-	•	Room Database para almacenar Pokémon listados y el carrito.
-	•	Retrofit para consumir la PokéAPI.
+La app sigue el patrón MVVM (Model-View-ViewModel) con inyección de dependencias mediante Dagger Hilt y el Patrón Repositorio para separar la capa de datos.  
+	•	UI (Compose)  
+	•	Renderiza la lista de Pokémon con paginación.  
+	•	Muestra el carrito con un contador y un botón flotante.  
+	•	Gestiona eventos como “Agregar al carrito” y biometría antes de acceder al mismo.  
+	•	ViewModel  
+	•	Expone State inmutable para la UI.  
+	•	Gestiona la lógica de paginación y sincronización de datos.  
+	•	Repository  
+	•	Orquesta datos de API remota (Retrofit) y Room Database.  
+	•	Si hay internet → trae desde API y actualiza DB.  
+	•	Si no hay internet → devuelve datos locales persistidos.  
+	•	Data Layer  
+	•	Room Database para almacenar Pokémon listados y el carrito.  
+	•	Retrofit para consumir la PokéAPI.  
 
-Este enfoque garantiza desacoplamiento, testabilidad y offline-first para mejor experiencia del usuario.
+Este enfoque garantiza desacoplamiento, testabilidad y offline-first para mejor experiencia del usuario.  
 
 
 ⸻
@@ -90,17 +90,13 @@ Esto ofrece una experiencia moderna, intuitiva y segura.
 	•	NotificationCompat → Notificaciones locales
 
 ⸻
-
-📸 Capturas
-
-![WhatsApp Image 2025-07-17 at 10 44 56 PM (1)](https://github.com/user-attachments/assets/bc9d0dc3-ddf4-48a9-b9ea-3c8e6d4be815)
-![WhatsApp Image 2025-07-17 at 10 44 57 PM](https://github.com/user-attachments/assets/35ed2563-0d8c-4b15-b953-04c3c97ea8c1)
-![WhatsApp Image 2025-07-17 at 10 44 56 PM](https://github.com/user-attachments/assets/86b3dec2-74b3-483e-8964-fcc03f3acb90)
-![WhatsApp Image 2025-07-17 at 10 44 56 PM (3)](https://github.com/user-attachments/assets/3ab5d012-4356-4920-a3e7-2b59f044dc8c)
-![WhatsApp Image 2025-07-17 at 10 44 56 PM (2)](https://github.com/user-attachments/assets/0428f0a2-5b45-4046-9d60-fbb6ed7664eb)
-
-
-⸻
+📸 Capturas  
+<img src="https://github.com/user-attachments/assets/35ed2563-0d8c-4b15-b953-04c3c97ea8c1" width="200"/>
+<img src="https://github.com/user-attachments/assets/3ab5d012-4356-4920-a3e7-2b59f044dc8c" width="200"/>
+<img src="https://github.com/user-attachments/assets/0428f0a2-5b45-4046-9d60-fbb6ed7664eb" width="200"/>
+<img src="https://github.com/user-attachments/assets/bc9d0dc3-ddf4-48a9-b9ea-3c8e6d4be815" width="200"/>
+<img src="https://github.com/user-attachments/assets/86b3dec2-74b3-483e-8964-fcc03f3acb90" width="200"/>  
+⸻  
 
 ✨ Próximos pasos
 	•	Agregar navegación con NavController para una arquitectura más escalable.
@@ -112,9 +108,9 @@ Esto ofrece una experiencia moderna, intuitiva y segura.
 👨‍💻 Autor
 
 Luis Suárez
-📧 luise5554@gmail.com
+📧 luise5554@gmail.com  
 🌐 https://www.linkedin.com/in/luis-eduardo-su%C3%A1rez-pati%C3%B1o-70bb83a8/
 
 ⸻
 
-“Esta app demuestra buenas prácticas en arquitectura Android moderna, persistencia offline, seguridad con biometría y una UX adaptada a contextos de red variables.”
+Esta app demuestra buenas prácticas en arquitectura Android moderna, persistencia offline, seguridad con biometría y una UX adaptada a contextos de red variables.
