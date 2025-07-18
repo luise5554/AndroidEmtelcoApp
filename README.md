@@ -93,7 +93,12 @@ Esto ofrece una experiencia moderna, intuitiva y segura.
 
 📸 Capturas
 
-(Aquí puedes agregar screenshots de la lista, el carrito y la notificación de red)
+![WhatsApp Image 2025-07-17 at 10 44 56 PM (1)](https://github.com/user-attachments/assets/bc9d0dc3-ddf4-48a9-b9ea-3c8e6d4be815)
+![WhatsApp Image 2025-07-17 at 10 44 57 PM](https://github.com/user-attachments/assets/35ed2563-0d8c-4b15-b953-04c3c97ea8c1)
+![WhatsApp Image 2025-07-17 at 10 44 56 PM](https://github.com/user-attachments/assets/86b3dec2-74b3-483e-8964-fcc03f3acb90)
+![WhatsApp Image 2025-07-17 at 10 44 56 PM (3)](https://github.com/user-attachments/assets/3ab5d012-4356-4920-a3e7-2b59f044dc8c)
+![WhatsApp Image 2025-07-17 at 10 44 56 PM (2)](https://github.com/user-attachments/assets/0428f0a2-5b45-4046-9d60-fbb6ed7664eb)
+
 
 ⸻
 
