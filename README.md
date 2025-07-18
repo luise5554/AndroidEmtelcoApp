@@ -69,13 +69,13 @@ Este enfoque garantiza desacoplamiento, testabilidad y offline-first para mejor 
 🎨 Diseño visual y UX
 
 La interfaz fue desarrollada íntegramente con Jetpack Compose y destaca por:
-	•	Paginación infinita: la lista de Pokémon se carga dinámicamente mientras el usuario hace scroll.
-	•	Imágenes optimizadas con Coil para un rendimiento fluido.
-	•	Contador del carrito como Badge sobre el ícono, mostrando en tiempo real la cantidad de Pokémon agregados.
-	•	Formato de moneda en COP (con punto separador de miles) para precios claros.
-	•	Biometría antes del carrito para reforzar la seguridad.
-	•	Notificación de conectividad para feedback inmediato al usuario.
-
+	•	Paginación infinita: la lista de Pokémon se carga dinámicamente mientras el usuario hace scroll.  
+	•	Imágenes optimizadas con Coil para un rendimiento fluido.  
+	•	Contador del carrito como Badge sobre el ícono, mostrando en tiempo real la cantidad de Pokémon agregados.  
+	•	Formato de moneda en COP (con punto separador de miles) para precios claros.  
+	•	Biometría antes del carrito para reforzar la seguridad.  
+	•	Notificación de conectividad para feedback inmediato al usuario.  
+  
 Esto ofrece una experiencia moderna, intuitiva y segura.
 
 ⸻
