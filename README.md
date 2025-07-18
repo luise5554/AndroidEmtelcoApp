@@ -1,7 +1,7 @@
 # AndroidEmtelcoApp
 # 🐱‍👤 EmtelcoApp - Listado Pokemon con Carrito de Compras  
 
-Este proyecto es una **app Android desarrollada en Kotlin con Jetpack Compose**, que consume la [PokéAPI](https://pokeapi.co) para listar Pokémon de forma paginada y permite agregarlos a un carrito de compras protegido por biometría.  
+Este proyecto es una **app Android desarrollada en Kotlin con Jetpack Compose**, que consume api para listar Pokémon de forma paginada y permite agregarlos a un carrito de compras protegido por biometría.  
 
 ---
 
